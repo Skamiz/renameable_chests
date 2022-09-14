@@ -5,7 +5,7 @@ A small mod that allows you to rename your chests.
 #license
 MIT License
 
-Copyright (c) 2020 Skamiz Kazzarch
+Copyright (c) 2022 Skamiz Kazzarch
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
